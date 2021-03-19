@@ -1,4 +1,5 @@
 # Git repository instructions
+Ciao
 
 Add a new repository in GitHub and then in the folder on your computer that you want to upload to GitHub run the following commands (changing my_username and my_project to your situation):
 
