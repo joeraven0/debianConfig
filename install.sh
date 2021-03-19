@@ -8,4 +8,4 @@ cp imwheel.desktop ${USER_HOME}/.config/autostart
 cp bg1.jpg /usr/share/backgrounds/
 cp xfce4-desktop.xml ${USER_HOME}/.config/xfce4/xfconf/xfce-perchannel-xml
 
-./app.sh
+./apps.sh
