@@ -21,5 +21,5 @@ git add .
 git commit -m "description of what I changed"
 git push
 ```
-I also use git status a lot to see what has changed or is ready to commit.
+https://stackoverflow.com/questions/51997057/upload-local-repository-to-github-com/66343493#66343493
 
