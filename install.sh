@@ -8,4 +8,4 @@ USER_HOME=$(eval echo ~${SUDO_USER})
 cp bg1.jpg /usr/share/backgrounds/
 cp xfce4-desktop.xml ${USER_HOME}/.config/xfce4/xfconf/xfce-perchannel-xml
 
-./apps.sh
+./dependencies.sh
