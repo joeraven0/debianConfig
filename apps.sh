@@ -5,5 +5,5 @@
 apt install wipe
 apt install testdisk
 apt install clementine
-apt install npm
-npm install p3x-onenote
+#apt install npm
+#npm install p3x-onenote
